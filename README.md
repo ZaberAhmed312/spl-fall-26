@@ -5,13 +5,13 @@ Welcome to my programming practice repository!
 
 ## Student Information
 
-- **Name:Jaber Ahmad Bhuiyan**
-- **Student ID: 0112620754**
-- **Section: F**
+- **Name:** Jaber Ahmad Bhuiyan
+- **Student ID:** 0112620754
+- **Section:** F
 - **Course:** CSE 1112
 - **Course Title:** Structured Programming Language Laboratory
-- **Trimester:**
-- **Instructor:**
+- **Trimester:** 2nd
+- **Instructor:** Hamudi Hasan Sonet Sir
 
 ## About This Repository
 
@@ -30,5 +30,7 @@ See [PROGRESS.md](PROGRESS.md).
 
 ## My Learning Goal
 
-Write a few sentences about what you
-want to achieve through this course.
+From this course I want to deeply know about the basic concepts of c programming
+and build a solid foundation based on my learning from this course. I want to
+experience teamwork as well through projects that will help me in future
+projects as well.
